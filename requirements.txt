@@ -1,0 +1,5 @@
+tqdm==4.11.2
+boto3==1.4.4
+spacy==1.8.0
+gensim==0.13.2
+tensorflow==1.0.1
